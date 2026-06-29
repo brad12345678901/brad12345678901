@@ -1,6 +1,6 @@
 # Hi! I'm John Bradley Ibanez
 
-Upcoming Fresh Graduate at **September 8** graduating from Bachelor of Science in Computer Science
+Upcoming Fresh Graduate under Bachelor of Science in Computer Science specializing in Software Engineering
 
 Software Developer primarily focusing on web development
 
